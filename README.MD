@@ -6,7 +6,7 @@ Pequeno utilitário para gerar o HASH de arquivos SIB e SIP (potencialmente func
 
 - Baixe o release mais recente
 - Descompacte o arquivo
-- Através do CMD, navegue até a pasta onde se vocês descompactou os programas
+- Através do CMD, navegue até a pasta onde você descompactou os programas
 
 ```
 > th_hash_sib_sip.exe "<arquivo de origem>" "[opcional]<arquivo de saída>"
